@@ -1,4 +1,4 @@
-# Aqui se alojan los comandos para .gitignore
+# Aqui se alojan los comandos para .gitignore - Equipo Newsan2
 
 ## Para ignorar la carpeta interim se utilizó
 data/interim/
