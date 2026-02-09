@@ -1,61 +1,58 @@
 # Proyecto_Newsan2
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+# 📊 Análisis de datos de Ergometría – Newsan 
 
-practicas profecionalizantes
+Proyecto grupal desarrollado en el marco de la materia **Prácticas Profesionalizantes I**
+de la **Tecnicatura en Ciencias de Datos e Inteligencia Artificial**.
 
-## Project Organization
+El trabajo se realizó en colaboración con la empresa **Newsan**,
+con el objetivo de aplicar herramientas básicas de análisis de datos en un
+contexto real.
 
-```
-├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         X and configuration for tools like black
-│
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
-├── setup.cfg          <- Configuration file for flake8
-│
-└── X   <- Source code for use in this project.
-    │
-    ├── __init__.py             <- Makes X a Python module
-    │
-    ├── config.py               <- Store useful variables and configuration
-    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
-```
+---
 
---------
+## 🎯 Objetivo del proyecto
+
+Analizar datos de **ergometría** con fines exploratorios, buscando comprender
+el comportamiento de distintas variables y su relación con el rendimiento
+físico para determinar rotaciones entre el personal y minimizar riesgos de lesiones, como parte de un ejercicio formativo y profesionalizante.
+
+---
+
+## 🧩 Contexto académico
+
+- Materia: Prácticas Profesionalizantes I  
+- Modalidad: Proyecto grupal  
+- Institución: Politecnico Malvinas Argentinas de Rio Grande
+- Empresa vinculada: Newsan (Ushuaia)
+
+Al momento de desarrollar el proyecto, el equipo se encontraba en una **etapa
+inicial de aprendizaje** del uso de Git, GitHub y de la estructura
+**Cookiecutter Data Science**, por lo que parte del trabajo se gestionó
+principalmente mediante **Excel, Power BI, Visual Studio Code y Google Drive**.
+
+---
+
+## 🛠️ Herramientas utilizadas
+
+- Python
+- Excel y Power BI
+- Visual Studio Code  
+- Google Drive  
+- Git / GitHub
+
+---
+
+## 👥 Trabajo en equipo
+
+Proyecto desarrollado de manera colaborativa por estudiantes de la tecnicatura.
+
+Incluyó:
+- Análisis exploratorio de datos
+- Trabajo con notebooks en Python
+- Aporte en la interpretación de resultados
+- Trabajo colaborativo en equipo
+
+---
+
 
