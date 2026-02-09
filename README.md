@@ -1,6 +1,6 @@
 # Proyecto_Newsan2
 
-# 📊 Análisis de datos de Ergometría – Newsan 
+# 📊 Análisis de datos sobre Riesgo Ergonómico – Newsan 
 
 Proyecto grupal desarrollado en el marco de la materia **Prácticas Profesionalizantes I**
 de la **Tecnicatura en Ciencias de Datos e Inteligencia Artificial**.
